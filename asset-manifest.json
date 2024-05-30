@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naveengatlewar/Assignment/static/css/main.dc3d9745.css",
+    "main.js": "/naveengatlewar/Assignment/static/js/main.02dd15e8.js",
+    "index.html": "/naveengatlewar/Assignment/index.html",
+    "main.dc3d9745.css.map": "/naveengatlewar/Assignment/static/css/main.dc3d9745.css.map",
+    "main.02dd15e8.js.map": "/naveengatlewar/Assignment/static/js/main.02dd15e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3d9745.css",
+    "static/js/main.02dd15e8.js"
+  ]
+}
